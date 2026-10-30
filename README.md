@@ -48,6 +48,7 @@ Examples: • Amazon Echo – Alexa • Google Nest – Google Assistant • App
 • Machine Learning (ML) :Learns patterns from user interactions. • Deep Learning (DL) :Used for speech and language understanding. • Natural Language Processing (NLP): Understands human language. • Automatic Speech Recognition (ASR) :Converts speech into text. • Natural Language Understanding (NLU) :Identifies the meaning and intent of commands. • Text-to-Speech (TTS) :Converts generated text into natural-sounding speech. • Generative AI: Can generate more natural and context-aware responses. • Cloud AI Services:Provide large-scale speech, language and knowledge-processing capabilities.
 
 **CONCLUSION**
+
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in everyday life. By combining speech recognition, NLP, machine learning, and text-to-speech technologies, smart speakers can understand voice commands and provide intelligent responses. They improve convenience, accessibility, and automation in homes and other environments.
 
 # RESULT
